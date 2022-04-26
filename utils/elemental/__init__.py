@@ -1,0 +1,1 @@
+from . import qr_img_link
